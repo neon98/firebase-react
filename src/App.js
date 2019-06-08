@@ -3,7 +3,6 @@ import './App.css';
 import * as firebase from 'firebase';
 
 class Form extends Component{
-  // dbRef;
   constructor(){
     super();
     this.state = {
@@ -25,17 +24,18 @@ class Form extends Component{
 
   handleSubmit(event){
     event.preventDefault();
-    
     this.dbRef.set({
       username: this.state.username,
       email: this.state.email
     });
+    document.getElementById('myForm').reset();
+    alert('input cleared!')
   }
 
   render(){
     return (
       <div>
-        <form onSubmit={this.handleSubmit}>
+        <form onSubmit={this.handleSubmit} id="myForm">
           <label>
             User name :
             <input 
