@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/firebase-react/static/css/main.2cce8147.chunk.css",
+    "main.js": "/firebase-react/static/js/main.c9e72216.chunk.js",
+    "main.js.map": "/firebase-react/static/js/main.c9e72216.chunk.js.map",
+    "runtime~main.js": "/firebase-react/static/js/runtime~main.75960c38.js",
+    "runtime~main.js.map": "/firebase-react/static/js/runtime~main.75960c38.js.map",
+    "static/js/2.16d96d81.chunk.js": "/firebase-react/static/js/2.16d96d81.chunk.js",
+    "static/js/2.16d96d81.chunk.js.map": "/firebase-react/static/js/2.16d96d81.chunk.js.map",
+    "index.html": "/firebase-react/index.html",
+    "precache-manifest.e16b5a6b76279d66052f52087db5903c.js": "/firebase-react/precache-manifest.e16b5a6b76279d66052f52087db5903c.js",
+    "service-worker.js": "/firebase-react/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/firebase-react/static/css/main.2cce8147.chunk.css.map"
+  }
+}
